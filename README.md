@@ -1,7 +1,7 @@
 # A.I.S.T.A.T.E – Artificial Intelligence Speech-To-Analysis-Translation Engine
 
 Autor: **Tomasz Pawlicki**  
-Plik główny: `app21.py`  
+Plik główny: `aistate.py`  
 Dodatkowe narzędzie demonstracyjne diarizacji tekstu/audio: `dia1.py`
 
 ---
